@@ -1,2 +1,2 @@
 # DSA
-Problems in Data Structure and Algorithms.
+Problems in Data Structure and Algorithms(Basic to Advanced)
